@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @asad-mallick
-- 👀 I’m interested in DevOps projects
-- 🌱 I’m currently learning Git, Jenikens, Linux, creating CI/CD pipelines, Terraform, dockers, k8s and Python
-- 💞️ I’m looking to collaborate on creating CI/CD pipelines for beginners
+- 👀 I’m interested in DevOps complex  projects
+- 🌱- 💞️ I’m looking to collaborate on creating multibranch CI/CD pipelines and K8s orchestration
 - 📫 How to reach me- mallick.itm@gmail.com
 
 <!---
